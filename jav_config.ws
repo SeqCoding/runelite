@@ -1,6 +1,6 @@
 title=Zenyte
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://mekkon.rsps.jire.org
+codebase=http://45.88.231.114
 cachedir=zenyte
 storebase=0
 initial_jar=gamepack_6060044.jar
